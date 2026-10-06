@@ -1,7 +1,8 @@
 {
-  "name": "react-example",
+  "name": "v-personal-ai-assistant",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "A sleek, futuristic personal AI assistant inspired by JARVIS, powered by Google Gemini API.",
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",
