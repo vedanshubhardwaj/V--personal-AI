@@ -112,7 +112,7 @@ export const InputConsole: React.FC<InputConsoleProps> = ({
           <span className="hidden sm:inline">
             Press <CornerDownLeft className="inline w-2.5 h-2.5 mx-0.5" /> to transmit
           </span>
-          <span className="ml-auto">Model: Gemini Flash // V Core</span>
+          <span className="ml-auto">Model: Gemini 3.8 Flash</span>
         </div>
       </div>
     </div>
